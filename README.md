@@ -10,4 +10,8 @@ understand the construction of a full stack project with a serverת database and
 - MySQL
 
 ## Visit
+<<<<<<< HEAD
 https://northwind-traders-noam.herokuapp.com/home
+=======
+https://northwind-traders-noam.herokuapp.com/home
+>>>>>>> 1e1134dba1ad0d33711fb29a71bfd456b219103a
